@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+numpy
+opencv-python
+matplotlib
+albumentations
+pandas
+scikit-learn
+segmentation-models-pytorch
+detectron2
+Pillow
